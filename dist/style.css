@@ -1,7 +1,7 @@
-/* .background {
-    background-image: url(../img/Background.png);
+.bg-body-pattern {
+    background-image: url('/img/Background.png');
 }
 
-.bg-footer {
-    background-image: url(../img/wave.png);
-} */
+.bg-footer-texture {
+    background-image: url('/img/wave2.png');
+}
